@@ -67,17 +67,16 @@ END
 <br>
 <br>
 <br>
+<img width="1917" height="1199" alt="factorialScreenshot 2025-10-03 082932" src="https://github.com/user-attachments/assets/f4c84552-b661-4536-8dd2-7d9f25681fcd" />
+
 
 
 
 **Manual Calculations:**  
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+![factorial keilWhatsApp Image 2025-10-26 at 15 32 36_a7375a5a](https://github.com/user-attachments/assets/4ffdcaf9-883d-402d-8922-291f0dc6b05b)
+
 
 
 
